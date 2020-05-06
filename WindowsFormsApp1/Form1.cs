@@ -16,7 +16,7 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
             label1.Text = "Trqbva ti extension";
-            label2.Text = "I laptop :P ";
+            label2.Text = "I laptop ";
         }
     }
 }
